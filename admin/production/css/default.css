@@ -1,0 +1,44 @@
+.box{
+	border:1px red dotted;
+}
+
+.display-table{
+	display:table;
+}
+
+.display-table-row{
+	display:table-row;
+}
+
+.display-table-cell{
+	display:table-cell;
+}
+
+.content-inner{
+	display:inline;
+}
+
+.text-white{
+	color:#FFF;
+}
+
+.text-bold{
+	font-weight:bold;
+}
+
+.float-right{
+	float:right;
+}
+
+.background-white{
+	background:#FFF;
+}
+
+.box-white{
+	background:#FFF;
+	margin:1%;
+	margin-left:2%;
+	margin-right:2%;
+	border-radius:3px;
+	padding:20px;
+}

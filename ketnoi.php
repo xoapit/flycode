@@ -1,16 +1,8 @@
 <?php
 
-$servername = "127.0.0.1:53268";
-$username = "azure";
-$password = "6#vWHD_$";
-$dbname = "dbblog";
-
-    $conn = mysqli_connect(
-        "{$ketnoi['host']}",
-        "{$ketnoi['username']}",
-        "{$ketnoi['password']}","{$ketnoi['dbname']}")
-    or
-        die("Cann't connect to database");
-    mysqli_query($conn,"SET character_set_results=utf8");
+$conn= mysqli_connect('127.0.0.1:53401','azure','6#vWHD_$','dbblog') 
+or
+die("No connect!");
+mysqli_query($conn,"SET character_set_results=utf8");
 
 ?>
