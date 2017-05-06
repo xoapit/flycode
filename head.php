@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-  <title>Yeahcodes</title>
+  <title>flycode</title>
 
   <!-- Bootstrap -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -99,7 +99,7 @@
       </nav>
       
       <!--page content -->
-      <div class="container box-head">Yeahcodes.com</div>
+      <div class="container box-head">flycode</div>
       <div class="container">
        <nav class="navbar navbar-default" style="background:#282830; color:#fff;">
         <div class="container">
