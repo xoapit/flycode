@@ -120,8 +120,8 @@
         <div class="collapse navbar-collapse" id="menu2">
           <ul class="nav navbar-nav ">
            <li><a href="" style="color:#fff;"> C/C++</a></li>
-           <li><a href="" style="color:#fff;">JAVA</a></li>
-           <li><a href="" style="color:#fff;">Android</a></li>
+           <li><a href="article.php?idtheloai=2" style="color:#fff;">JAVA</a></li>
+           <li><a href="article.php?idtheloai=1" style="color:#fff;">Android</a></li>
            <li><a href="" style="color:#fff;">PHP</a></li>
            <li><a href="" style="color:#fff;">SQL</a></li>
            <li>
@@ -130,15 +130,9 @@
             </a>
             <ul class="dropdown-menu">
               <li><a href="#">JQuery</a>
-              </li>
+              </li>           
               <div class="divider"></div>
-              <li><a href="#">Serverlet</a>
-              </li>
-              <div class="divider"></div>
-              <li><a href="#">Nodejs</a>
-              </li>
-              <div class="divider"></div>
-              <li><a href="#">Jsp</a>
+              <li><a href="#">Js</a>
               </li>
             </ul>
           </li>
@@ -157,8 +151,8 @@
               </li>
             </ul>
           </li>
-          <li><a href="" style="color:#fff;">CNPM</a></li>
-          <li><a href="" style="color:#fff;">Project</a></li>
+          <li><a href="" style="color:#fff;">JSP</a></li>
+          <li><a href="article.php?idtheloai=4" style="color:#fff;">Project</a></li>
           <li><a href="" style="color:#fff;">ARM</a></li>
           <li><a href="" style="color:#fff;">Arduino</a></li>
           <li><a href="" style="color:#fff;">English</a></li>
