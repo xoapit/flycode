@@ -20,7 +20,7 @@
    include('head.php');
    ?>
 <!--box giua-->
-<div class="col-md-8">
+<div class="col-md-9">
    <!--content of article-->
    <?php
       if(isset($_GET['idbaiviet'])){

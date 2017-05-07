@@ -36,7 +36,7 @@
    include('head.php');
    ?>
 <!--box giua-->
-<div class="col-md-8">
+<div class="col-md-9">
    <!--doan1-->
    <div class="box-content row">
       <!--content of article-->

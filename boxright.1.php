@@ -1,4 +1,4 @@
-   <div class="col-md-4" style="padding-left:25px;">
+   <div class="col-md-3" style="padding-left:25px;">
       <div class="box-content row">
          <div class="box-title"><span class="glyphicon glyphicon-education"></span> Bài Viết Mới</div>
          <ul>
