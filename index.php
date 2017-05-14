@@ -21,7 +21,7 @@ include('head.php');
 
 <!--box giua-->
 <div>
-    <center><h2>Comming soon!</h2></center>  
+    <center><h2>Coming soon!</h2></center>  
 
 </div>
 

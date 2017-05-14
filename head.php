@@ -22,19 +22,12 @@
  <iframe name="iframe " style="display: none;"></iframe>
  <div id="head"></div>
  <div class="menufixed ">
-  <a href="#head" style="padding-bottom:5px;">
-   <img src="image/up.png" width=30px height=30px;/>
-   <a/>
-   <a href="https://www.facebook.com/Xoapit" style="padding-bottom:5px;">
-     <img src="image/fb1.png" width=30px height=30px;/>
-     <a/>
-     <a href="https://www.facebook.com/QuanDinh13" style="margin-bottom:5px;">
-       <img src="image/fb2.png" width=30px height=30px;/>
-       <a/>
+  <a href="#head" style="padding:5px; background:#e74c3c; color: #fff; font-weight: bolder;" >
+  <span class="glyphicon glyphicon-home"></span>
+  <a/>
+   <a href="https://www.facebook.com/Xoapit" style="padding:5px; background:#2980b9; color: #fff; font-weight: bolder;" >f<a/>
+     <a href="https://www.facebook.com/quandinh13" style="padding:5px; background:#2c3e50; color: #fff; font-weight: bolder;" >f<a/>
        <br>
-       <a>
-         <img src="image/gmail2.png" width=30px height=30px;/>
-         <a/>
        </div>
        <!-- Navigation -->
        <nav class="navbar navbar-default navbar-fixed-top" style="background:#e74c3c;">
@@ -57,10 +50,10 @@
           <!-- Nav collapse -->
           <div class="collapse navbar-collapse" id="menu">
             <ul class="nav navbar-nav ">
-              
+
               <li>
                 <a data-toggle="dropdown" href="#" style="color:#FFF">Material
-                 
+
                 </a>
               </li>
               <li>
