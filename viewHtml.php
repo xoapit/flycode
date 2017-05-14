@@ -20,7 +20,7 @@ $sotrang=1;
 include('head.php');
 ?>
 <!--box giua-->
-<div class="col-md-12 row">
+<div class="col-md-12">
    <!--content of article-->
    <?php
    if(isset($_GET['idbaiviet'])){
