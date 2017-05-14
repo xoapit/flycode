@@ -135,10 +135,8 @@
                </div>
                <div class="col-md-8 caption">
                   <h3><?php echo $row['title']; ?></h3>
-                  <?php 
-                     $nd = $row['noidung'];
-                     $nd = substr($nd,0,250);
-                     echo $nd; 
+                  <?php                                       
+                     echo$row['mota'];
                      ?>
                   <hr />
                   <div class="mo" style="opacity:10%;"><span class="glyphicon glyphicon-user"></span> <?php echo $row['nguoidang']; ?>. 

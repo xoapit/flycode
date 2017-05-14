@@ -9,7 +9,7 @@
       return $d;
    }
 
-   include('/home/ubuntu/workspace/ketnoi.php');
+   include('../../ketnoi.php');
    function query($conn, $sql){
       $query = mysqli_query($conn,$sql);
       return $query;
@@ -306,7 +306,7 @@
             	 
             	<div class="box-white table-responsive">
                 	<div class="text-bold"> Articles
-                    	<button class="btn btn-info float-right">Create new article</button>
+                    	<a class="btn btn-primary" href="/dangbai.php" class="btn btn-info float-right">Create new article</a>
                     </div>
                     <hr>
                 	<table class="table table-striped table-responsive">

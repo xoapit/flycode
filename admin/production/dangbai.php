@@ -9,7 +9,7 @@
       return $d;
    }
 
-   include('/home/ubuntu/workspace/ketnoi.php');
+   include('../../ketnoi.php');
    function query($conn, $sql){
       $query = mysqli_query($conn,$sql);
       return $query;
