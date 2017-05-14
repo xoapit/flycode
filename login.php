@@ -73,31 +73,7 @@
             </div>
          </div>
       </div>
-      <!--content of article-->
-      <h8 class="text-bold background-red text-white"><span class="glyphicon glyphicon-tasks"></span> Android</h8>
-      <div class="gach"></div>
-      <hr>
-      <!--doan1-->
-      <div class="#">
-         <div class="col-sm-6 col-md-12">
-            <div class="row thumbnail">
-               <div class="col-md-4" style="margin-top:10px;"><img src="image/2NqZJYQI.png" width="100%" height="100%" /></div>
-               <div class="col-md-8 caption">
-                  <h3>Thumbnail labelThumbnail label askfjl lkj asfkj label</h3>
-                  <p>The world’s most popular mobile OS
-                     From phones and watches to cars and TVs, customize your digital life with Android.
-                  </p>
-                  <hr />
-                  <div class="mo" style="opacity:10%;"><span class="glyphicon glyphicon-user"></span> Xoapit. <span class="glyphicon glyphicon-calendar"></span> Monday, 10/02
-                     /2017 
-                  </div>
-                  <a href="#" class="btn btn-primary pos-right" role="button">Read more</a>
-                  <a href="#" class="btn btn-default pos-right" style="margin-right:5px;" role="button"><span class="glyphicon glyphicon-share"></span> Share</a>
-               </div>
-            </div>
-         </div>
-      </div>
-      <!--doan1-->
+     
    </div>
 </div>
 <?php 
