@@ -306,7 +306,7 @@
             	 
             	<div class="box-white table-responsive">
                 	<div class="text-bold"> Articles
-                    	<a class="btn btn-primary" href="/dangbai.php" class="btn btn-info float-right">Create new article</a>
+                    	<a class="btn btn-primary" href="/admin/production/dangbai.php" class="btn btn-info float-right">Create new article</a>
                     </div>
                     <hr>
                 	<table class="table table-striped table-responsive">
@@ -335,7 +335,7 @@
                                 <td><?php echo convertDate($row['ngaydang']) ?></td>
                                 <td>
                                     <button class="btn btn-info">View</button>
-                                    <button class="btn btn-success">Edit</button>
+                                    <a href="/admin/production/editarticle.php" class="btn btn-success">Edit</a>
                                     <button class="btn btn-danger">Delete</button>
                                 </td>                      
                             </tr>

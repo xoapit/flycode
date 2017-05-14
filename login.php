@@ -47,7 +47,7 @@
                   <span class="glyphicon glyphicon-tasks"></span> You can sign in your account in here.
                </h8>
                <div class="gach"></div>
-               <div class="col-offset-md-3 col-md-6 col-xs-12">
+               <div class="col-md-offset-3 col-md-6 col-xs-12">
                   <form action="login.php" method="post">
                      <div class="form-group">
                         <label for="username">Username:</label>
